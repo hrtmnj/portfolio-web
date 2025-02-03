@@ -1,6 +1,6 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Joseph Hartman Portfolio Testbed"/>
+  <HelloWorld msg="Joseph Hartman Portfolio"/>
 </template>
 
 <script>
